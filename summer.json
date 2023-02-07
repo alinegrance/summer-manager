@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Aline",
+    "age": 30,
+    "pets": { "dog": "Chocolate", "cat": "Pudim" }
+  },
+  {
+    "id": 1,
+    "name": "Kazuki",
+    "age": 31,
+    "pets": { "dog": "Caramelo", "cat": "Lucy" }
+  },
+  {
+    "id": 2,
+    "name": "Washington",
+    "age": 25,
+    "pets": { "dog": null, "cat": "Garfield" }
+  },
+  {
+    "id": 4,
+    "name": "Fulano Dois de Oliveira",
+    "age": 50,
+    "pets": { "dog": null, "cat": "Garfield" }
+  }
+]
