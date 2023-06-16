@@ -36,7 +36,7 @@ A requisição deve retornar o status `200` e um array com todos os summers cada
         "name": "Aline Grance",
         "age": 31,
         "pets": {"dog": "Chocolate", "cat": "Pudim"}
-     }
+      }
 
 </details>
 
@@ -67,11 +67,11 @@ A idade da summer Aline está errada. A idade certa é 25 e os outros dados do c
         "name": "Aline Grance",
         "age": 25,
         "pets": {"dog": "Chocolate", "cat": "Pudim"}
-     }
+      }
 
 </details>
 
-- A resposta da requisição deve retornar o status `200` e as informações do livro que foram editadas.
+- A resposta da requisição deve retornar o status `200` e as informações do summer que foram editadas.
 
 <details>
   <summary>O retorno esperado</summary>
