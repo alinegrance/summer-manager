@@ -99,7 +99,7 @@ A idade da summer Aline está errada. A idade certa é 25 e os outros dados do c
 Ao pesquisar pela rota `/search?author=lin` deve retornar o status `200` e um array com todos os summers que satisfaçam a pesquisa.
 
 <details>
-  <summary>O retorno esperado para a pesquisa por "ge"</summary>
+  <summary>O retorno esperado para a pesquisa por "lin"</summary>
 
      [
        {
