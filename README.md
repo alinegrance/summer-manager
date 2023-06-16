@@ -14,7 +14,7 @@ Instale as dependências do projeto.
 
 Inicie a aplicação com o nodemon.
 
-    npm start
+    npm run dev
 
 **Obs.:** Caso queira salvar sua resolução no seu GitHub faça o `Fork` deste repositório antes de realizar o clone e substitua no primeiro comando a chave SSH que agora deve ser a do seu repositório.
 
