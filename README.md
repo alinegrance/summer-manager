@@ -96,7 +96,7 @@ A idade da summer Aline está errada. A idade certa é 25 e os outros dados do c
 
 - O endpoint deve ser acessíve através da rota `/search?q=searchTerm`.
 
-Ao pesquisar pela rota `/search?author=lin` deve retornar o status `200` e um array com todos os summers que satisfaçam a pesquisa.
+Ao pesquisar pela rota `/search?summer=lin` deve retornar o status `200` e um array com todos os summers que satisfaçam a pesquisa.
 
 <details>
   <summary>O retorno esperado para a pesquisa por "lin"</summary>
